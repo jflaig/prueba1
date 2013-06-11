@@ -185,8 +185,7 @@ button{
         margin-right: 0px;
         margin-bottom: 0px;
         text-align: center;
-        background-color:#900;
-        background-image:url(../images/bg_white.png);
+        background-color:#FFFFFF;
         background-repeat: repeat-y;
         background-position: center top;
     }
@@ -201,8 +200,7 @@ button{
         margin-right: 0px;
         margin-bottom: 0px;
         text-align: center;
-        background-color:#900;
-        background-image:url(../images/m_bg_white.png);
+        background-color:#FFFFFF;
         background-repeat: repeat-y;
         background-position: center top;
     }
