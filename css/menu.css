@@ -81,6 +81,8 @@ nav{
  text-decoration:underline;
  }
  
+ 
+/* Desktop Version */ 
 @media screen {
     body {
         margin-left: 0px;
@@ -88,8 +90,7 @@ nav{
         margin-right: 0px;
         margin-bottom: 0px;
         text-align: center;
-        background-color:#900;
-        background-image:url(../images/bg_white.png);
+        background-color:#FFFFFF;
         background-repeat: repeat-y;
         background-position: center top;
     }
@@ -104,8 +105,7 @@ nav{
         margin-right: 0px;
         margin-bottom: 0px;
         text-align: center;
-        background-color:#900;
-        background-image:url(../images/m_bg_white.png);
+        background-color:#FFFFFF;        
         background-repeat: repeat-y;
         background-position: center top;
     }
